@@ -1,0 +1,43 @@
+body{
+    background: #ffd3b6 ;
+    text-align: center;
+}
+p{
+    font-family: "Roboto Light" ;
+    color: #151414;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    list-style-type: none;
+    font-size: 25px;
+}
+a{
+    color: black;
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 25px;
+
+}
+li{
+    margin-bottom: 10px;
+}
+a:hover{
+    color : darkturquoise;
+}
+.headings{
+    font-size: 30px;
+    text-align: justify;
+    margin-left: 20px;
+}
+ol{
+    text-align: justify;
+    font-size: 25px;
+}
